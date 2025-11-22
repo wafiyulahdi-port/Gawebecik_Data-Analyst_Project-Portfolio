@@ -2,8 +2,7 @@ This notebook showcases an end-to-end analytics workflow developed to support a 
 
 # Key Components
 1. Multi-Source Data Integration
-
-The notebook retrieves data from several systems, including:
+- The notebook retrieves data from several systems, including:
 
 A SQL database containing CSO activity logs
 
