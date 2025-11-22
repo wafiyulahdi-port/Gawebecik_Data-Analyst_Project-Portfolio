@@ -1,0 +1,1 @@
+This repository contains a web scraping project using tweet-harvest to collect Twitter (X.com) data related to vegan narratives in Indonesia. The project focuses on extracting tweets, cleaning the text, and preparing the dataset for further analysis of public discussions and sentiment around vegan topics.
