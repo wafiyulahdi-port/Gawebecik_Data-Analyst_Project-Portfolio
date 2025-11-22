@@ -7,4 +7,4 @@ Key components of the notebook include:
 * Feature Engineering: Cleaning raw fields, handling missing values, merging relational attributes, and constructing churn-related behavioral metrics.
 * Exploratory Data Analysis (EDA): Generating insights from customer patterns, return behavior, and other business attributes to identify churn indicators.
 
-The notebook demonstrates practical end-to-end analytics work—starting from raw database extraction to a refined dataset ready for modeling—while keeping all sensitive details and internal assets abstracted.
+The notebook demonstrates practical end-to-end analytics work, starting from raw database extraction to a refined dataset ready for modeling, while keeping all sensitive details and internal assets abstracted.
