@@ -1,1 +1,2 @@
 This repository contains an experimental marketing chatbot built using the LLaMA model, where the project explores prompt design, model behavior, and response generation for various marketing scenarios; the experiment includes implementing a lightweight application interface, testing conversational flows, and evaluating the model’s ability to perform tasks such as product explanation, lead qualification, and customer engagement, demonstrating LLaMA’s potential as a foundation for intelligent marketing assistants.
+Model saved: https://huggingface.co/genah
