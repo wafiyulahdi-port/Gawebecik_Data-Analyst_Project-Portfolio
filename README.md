@@ -5,8 +5,6 @@ All information in this repository is presented in a generalized and non-sensiti
 
 ## Projects That Cannot Be Shared
 In addition to the projects shown here, several major initiatives are not included because they are deeply interconnected and directly tied to core business operations:
-* RFM Analysis
-* Cohort Analysis
 * Customer–CS Assignment System
 * Customer Membership Lifecycle Analysis
 * Market Analysis
