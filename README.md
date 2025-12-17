@@ -16,7 +16,7 @@ These projects rely on:
 * Server-side processing pipelines
 * Structured insertion into reporting databases
 
-Their outputs feed sensitive dashboards in Metabase, Looker, and Tableau, all of which contain confidential business metrics that cannot be sanitized or redacted.
+Their outputs feed sensitive dashboards in Metabase, Looker, and Tableau, all of which contain confidential business metrics that cannot be sanitized or redacted..
 
 ## Other Important but Restricted Operational Files
 There are also several mid-level operational analytics tasks that are not included for confidentiality reasons, such as:
